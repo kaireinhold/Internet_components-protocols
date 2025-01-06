@@ -85,5 +85,5 @@ Understanding these protocols is essential for building secure, efficient, and r
 - https://www.ssh.com/academy/iot/ssh-iot-remote-access (SSH)
 - https://www.kiteworks.com/risk-compliance-glossary/sftp/ (SFTP)
 - https://www.cerberusftp.com/blog/ftps-vs-sftp-understanding-the-difference/ (FTPS vs SFTP)
-- https://www.sftpplus.com/articles/2018/sftpplus-ipv6-readiness-article (SFTP, Ipv6)
+- https://www.sftpplus.com/articles/2018/sftpplus-ipv6-readiness-article (SFTP, IPv6)
 
