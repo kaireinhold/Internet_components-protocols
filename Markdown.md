@@ -10,8 +10,8 @@ The following sections cover:
 - **HTTPS**: Secure communication over the web.
 - **TCP**: Reliable data transmission.
 - **SSH**: Secure shell for remote access.
-- **SFTP**: Secure file transfers.
-- **FTPS**: Secure file transfer protocol.
+- **SFTP**: Secure file transfers based on SSH.
+- **FTPS**: Secure file transfers based on FTP (File Transfer Protocol).
 - **IP/IPv6**: Internet protocols for data routing and addressing.
 - **IMAP**: Secure and synchronized email access.
 
