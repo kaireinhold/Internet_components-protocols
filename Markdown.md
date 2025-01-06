@@ -1,3 +1,25 @@
+# Internet Components & Common Internet Protocols
+
+
+
+## Introduction
+
+This document provides a brief overview of several key network protocols that are commonly used in internet communication and device interactions. These protocols play essential roles in ensuring data is transmitted securely, reliably, and efficiently across networks. They are crucial for various applications, including web browsing, file transfers, email access, and communication between Internet of Things (IoT) devices.
+
+The following sections cover:
+- **HTTPS**: Secure communication over the web.
+- **TCP**: Reliable data transmission.
+- **SSH**: Secure shell for remote access.
+- **SFTP**: Secure file transfers.
+- **FTPS**: Secure file transfer protocol.
+- **IP/IPv6**: Internet protocols for data routing and addressing.
+- **IMAP**: Secure and synchronized email access.
+
+Understanding these protocols is essential for building secure, efficient, and reliable systems for both personal and professional use.
+
+
+
+
 ### HTTPS:
 - Browsers send HTTPS/HTTP requests to servers, the server then responds with the resource needed.
 - HTTP protocols have easy error messages (404, 503).
