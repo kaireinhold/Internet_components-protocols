@@ -75,3 +75,15 @@ Understanding these protocols is essential for building secure, efficient, and r
 - Supports the use of folders for organization.
 
 - **Real World**: The user accesses their email on both their laptop and smartphone. Using IMAP, their emails stay synchronized across all devices, so if they read or delete an email on one device, the changes are reflected on the other devices in real-time.
+
+
+### Images found in repository image folder
+
+## Helpful Recources:
+- https://www.geeksforgeeks.org/types-of-internet-protocols/
+- https://flywheel-it.co.uk/the-flywheel-blog/essential-network-protocols/
+- https://www.ssh.com/academy/iot/ssh-iot-remote-access (SSH)
+- https://www.kiteworks.com/risk-compliance-glossary/sftp/ (SFTP)
+- https://www.cerberusftp.com/blog/ftps-vs-sftp-understanding-the-difference/ (FTPS vs SFTP)
+- https://www.sftpplus.com/articles/2018/sftpplus-ipv6-readiness-article (SFTP, Ipv6)
+
