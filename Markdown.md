@@ -40,6 +40,7 @@ Understanding these protocols is essential for building secure, efficient, and r
 - It is a network protocol used for secure connections between devices over an unsecured network.
 - Primarily used for remote logins and command execution.
 - SSH typically uses TCP port 22 by default.
+- Uses encryption to transfer data.
   
 - **Real World**: The user logs into a remote server to check the status of a project. Using SSH, they securely access the server over an unsecured network (e.g., public Wi-Fi), ensuring that any commands they run or data they access is encrypted and safe from eavesdropping.
 
